@@ -1,0 +1,5 @@
+/Users/ts_lw/workspace/card-app/card-app-api/src/main/java/com/ts/cardapp/api/message/response/DeleteCandidateResponse.java
+/Users/ts_lw/workspace/card-app/card-app-api/src/main/java/com/ts/cardapp/api/message/request/CreateCandidateRequest.java
+/Users/ts_lw/workspace/card-app/card-app-api/src/main/java/com/ts/cardapp/api/message/response/CreateCandidateResponse.java
+/Users/ts_lw/workspace/card-app/card-app-api/src/main/java/com/ts/cardapp/api/message/response/GetCandidateResponse.java
+/Users/ts_lw/workspace/card-app/card-app-api/src/main/java/com/ts/cardapp/api/service/CandidateService.java

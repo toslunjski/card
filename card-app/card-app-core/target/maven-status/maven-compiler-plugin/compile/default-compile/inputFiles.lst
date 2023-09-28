@@ -1,0 +1,11 @@
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/service/InternalCandidateService.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/model/CardStatus.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/model/InternalCandidate.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/service/InternalFileService.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/model/CardType.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/peer/CandidatePeer.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/persistence/CandidateRepo.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/service/InternalDbService.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/configuration/PersistenceJPAConfig.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/persistence/entity/DbCandidate.java
+/Users/ts_lw/workspace/card-app/card-app-core/src/main/java/com/ts/cardapp/core/service/DbService.java

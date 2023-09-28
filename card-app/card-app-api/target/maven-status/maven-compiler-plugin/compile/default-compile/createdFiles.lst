@@ -1,0 +1,5 @@
+com/ts/cardapp/api/message/response/DeleteCandidateResponse.class
+com/ts/cardapp/api/message/request/CreateCandidateRequest.class
+com/ts/cardapp/api/message/response/GetCandidateResponse.class
+com/ts/cardapp/api/message/response/CreateCandidateResponse.class
+com/ts/cardapp/api/service/CandidateService.class

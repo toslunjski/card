@@ -1,0 +1,11 @@
+com/ts/cardapp/core/peer/CandidatePeer.class
+com/ts/cardapp/core/persistence/entity/DbCandidate.class
+com/ts/cardapp/core/configuration/PersistenceJPAConfig.class
+com/ts/cardapp/core/model/InternalCandidate.class
+com/ts/cardapp/core/model/CardStatus.class
+com/ts/cardapp/core/service/InternalFileService.class
+com/ts/cardapp/core/persistence/CandidateRepo.class
+com/ts/cardapp/core/model/CardType.class
+com/ts/cardapp/core/service/InternalDbService.class
+com/ts/cardapp/core/service/InternalCandidateService.class
+com/ts/cardapp/core/service/DbService.class
